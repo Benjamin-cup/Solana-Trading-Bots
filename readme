@@ -1,0 +1,41 @@
+# Solana Trading Bots list.
+
+***SOLANA***
+
+- 🚀PumpSwap sniper bot with grpc V1.0🚀
+
+- 🚀PumpSwap sniper bot with rpc V1.0🚀
+
+- 🚀PumpSwap copytrading bot with grpc V1.0🚀
+
+- 🚀Pumpfun bundler with more than 20 wallets🚀
+
+- 🚀Super Raydium bundler bot V4 with  (avoid from bubblemap's ditecting.)🚀
+ 
+- 🚀Super Raydium bundler bot V5, V5.1 with more than 20 wallets (every wallets can control custom token hold percent of total tokens in Raydium pool. )🚀
+
+- 🚀Super Raydium Volume bot V3 (Target any interval, any amount, any volume and any number of makers with enough Balance of the wallet)🚀
+  
+- 🚀Raydium Volume booster🚀
+
+- 🚀Perpetual Market Maker bot
+
+- 🚀Multi-DEX Volume Booster🚀
+
+- 🚀Holder booster🚀
+
+- 🚀Super Pumpfun sniper grpc(Yellowston) V5.2🚀 This bot snipe and buy token within 1 or 2 blocks after token mint. so bot always make profit.
+
+- 🚀Super Raydium sniper V5.0 using Yellow-Stone GRPC within 1st second🚀 This bot snipe and buy token within 1 or 2 blocks after pool creation and sell with strategy. so bot always make profit.
+
+- 🚀Solana Copytrading bot🚀 (Pumpfun, Raydium, Juipter, Meteora)
+
+- 🚀Solana Arbitrage bot🚀
+
+***SUI***
+
+- 🚀Sui volume bot🚀
+  
+- 🚀Sui sniper bot🚀
+
+- I finish to build 🚀Multi-Dex Copy trading bot🚀. 
